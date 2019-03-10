@@ -1,0 +1,15 @@
+{
+  "name": "express-hello",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "express-hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abby",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
